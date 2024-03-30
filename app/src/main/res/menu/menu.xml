@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/shop"
+        android:title="Add Food"
+        android:icon="@drawable/baseline_add_circle_24"
+        />
+
+
+
+    <item
+        android:id="@+id/feedback"
+        android:icon="@drawable/baseline_star_24"
+        android:title="Feedback"/>
+    <item
+        android:id="@+id/showre"
+        android:icon="@drawable/baseline_history_24"
+        android:title="History"/>
+    <item
+        android:id="@+id/ngo"
+        android:icon="@drawable/baseline_bookmark_border_24"
+        android:title="Add Ngo Feedback"/>
+
+    <item android:id="@+id/profile"
+        android:icon="@drawable/baseline_lock_24"
+        android:title="Logout"/>
+
+
+</menu>
